@@ -10,8 +10,8 @@
 
 3. Pharmacy - aptek classi. Name, Unikal Id, Drug list olacaq. ToString - Id, Name qaytarmalidir. AddDrug - methodu Drug gebul etmeli Drug listine add etmelidir. InfoDrug - name qebul etmelidir ve uygun derman haqqinda melumatlari chixarmalidir. ShowDrugItems - methodu olmalidir, dermanlarin siyahisini vermelidr. SaleDrug - methodu olmalidir, derman adi - derman sayi - pul qebul etmelidir, eger bu dermandan varsa ve istenilen say qederdise ve pulda chatirsa satish bash versin. Eks halda uygun xeberdarliq chixarsin.
 
-# Sechimler dersde etdiyimiz qaydada olmalidir, yalniz methodlar yazsaniz console-dan sechimsiz, 50 bal uzerinden qiymetlenecek.
+### Sechimler dersde etdiyimiz qaydada olmalidir, yalniz methodlar yazsaniz console-dan sechimsiz, 50 bal uzerinden qiymetlenecek.
 
-# Diqqet: Bacardiqca optimal, seliqeli, oxunaqli yazin!!!!
+### Diqqet: Bacardiqca optimal, seliqeli, oxunaqli yazin!!!!
 
 # Ugurlar!!
