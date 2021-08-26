@@ -14,4 +14,6 @@
 
 ### Diqqet: Bacardiqca optimal, seliqeli, oxunaqli yazin!!!!
 
+### Hami oz profilinde public repository yaradib ora commit push etsin, ev tapshirigindaki kimi bura push etmek lazim deil!
+
 # Ugurlar!!
